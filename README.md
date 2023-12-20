@@ -1,3 +1,3 @@
 # Cypress
 
-learn cypree tool for web UI Application testing
+learn cypress tool for web UI Application testing
